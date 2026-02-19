@@ -1,8 +1,14 @@
-<h1 align="center">Lakshmi Sravanthi</h1>
-<h3 align="center">Backend-Focused Full Stack Developer • Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Lakshmi Sravanthi</h1>
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver">
+</h2>
 
 <p align="center">
-Building reliable backend systems, clean APIs, and practical real-world applications.
+🚀 Aspiring developer interested in building reliable backend systems and clean APIs for practical applications.</p>
+<p align="center">
+🧠 Learning how real-world applications work internally and improving problem-solving ability.</p>
+  <p align="center">
+💻 Always learning new technologies and improving my coding skills.
 </p>
 
 ---
@@ -60,10 +66,16 @@ Building reliable backend systems, clean APIs, and practical real-world applicat
 ---
 
 ## 🧠 Problem Solving
+- 🧩 Practicing Data Structures & Algorithms
+- 🗄 Writing optimized SQL queries & joins
+- 📈 Improving logical thinking daily
 
-* 🧩 Practicing Data Structures & Algorithms
-* 🗄 Writing optimized SQL queries & joins
-* 📈 Improving logical thinking daily
+<p>
+  <a href="https://leetcode.com/u/Sravanthi34/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
 
 ---
 

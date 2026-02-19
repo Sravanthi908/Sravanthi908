@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 I'm Lakshmi Sravanthi
 
-<!--
-**Sravanthi908/Sravanthi908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building real-world applications and understanding how systems work internally.
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
+⚙️ Tech: React, Django, REST APIs, MongoDB
+🧠 Interested in backend systems & problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects I’m proud of:
+• MediConnect – Healthcare appointment platform with location-based hospital search
+• SymptomTrackAI – Context-aware medical chatbot
+
+I like breaking systems, debugging them, and rebuilding them better.

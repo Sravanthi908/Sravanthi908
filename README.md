@@ -92,14 +92,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravanthi908&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravanthi908&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Streak Stats](https://streak-stats.demolab.com?user=Sravanthi908&theme=radical&border_radius=10)
+![Streak Stats](https://streak-stats.demolab.com/?user=Sravanthi908&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi908&layout=compact&theme=radical&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi908&layout=compact&theme=radical)
 
 </div>
-
 ---
 
 ## 🧠 Problem Solving & Learning

@@ -1,110 +1,144 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Sravanthi</h1>
+<div align="center">
 
-<h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver">
-</h2>
+# 🚀 Lakshmi Sravanthi
 
-<p align="center">
-🚀 Aspiring developer interested in building reliable backend systems and clean APIs for practical applications.
-</p>
+### Full Stack Developer | Backend Enthusiast | Problem Solver
 
-<p align="center">
-🧠 Learning how real-world applications work internally and improving problem-solving ability.
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://sravanthi-portfolio-five.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sravanthi908)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sravanthi34/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mushinisravanthi09@gmail.com)
 
-<p align="center">
-💻 Always learning new technologies and improving my coding skills.
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Sravanthi908&style=flat-square&color=blue)
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+## 💡 About Me
 
-- 💡 I enjoy turning real-world problems into working software  
-- 🧠 Interested in backend architecture & database design  
-- 🛠 Focus on clean code and correct validation logic  
-- 🔍 Like debugging and fixing edge-case issues  
-- 📚 Currently improving Full Stack Development & DSA skills  
+> Turning real-world problems into reliable, scalable software solutions
+
+- 🎯 **Focus:** Backend architecture, database design, and clean API development
+- 🧠 **Learning:** Understanding enterprise-level systems & optimizing performance
+- 🛠️ **Approach:** Writing maintainable code with robust validation & edge-case handling
+- 🔍 **Passion:** Debugging complex issues & implementing elegant solutions
+- 🎓 **Goal:** Building AI/ML-powered applications that solve real problems
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=white" />
+</div>
 
 ### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
----
-# 🧰 Tools
+### Databases & Tools
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
----
-
-# 🚀 Projects
-
-## 🤖 SymptoTrackAI – Hybrid RAG Medical Chatbot
-
-- 🧠 Tracks user symptoms across conversations  
-- 💬 Context-aware responses using conversation history  
-- 🔎 Retrieval-Augmented Generation based health assistant  
-
-
-
-# 🧠 Problem Solving
-
-- 🧩 Practicing Data Structures & Algorithms  
-- 🗄 Writing optimized SQL queries & joins  
-- 📈 Improving logical thinking daily  
-
-<p>
-<a href="https://leetcode.com/u/Sravanthi34/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
+### DevOps & Deployment
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 🎯 Featured Projects
 
-<p align="center">
+### 🤖 **SymptoTrackAI** – Hybrid RAG Medical Chatbot
+- 🧠 Intelligent symptom tracking across multi-turn conversations
+- 💬 Context-aware responses leveraging conversation history
+- 🔎 Retrieval-Augmented Generation for evidence-based health guidance
+- 📊 Real-time data persistence & user session management
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sravanthi908&show_icons=true&theme=radical"/>
-
-<img src="https://streak-stats.demolab.com?user=Sravanthi908&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi908&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-- ✉️ Email: mushinisravanthi09@gmail.com  
-- 💻 GitHub: https://github.com/Sravanthi908  
+### 📊 **Lead Management System** – Full Stack Application
+- 🎯 Complete lead pipeline management with real-time updates
+- 💾 Django REST API with PostgreSQL/MongoDB backend
+- ⚡ React + Vite frontend with intuitive UI
+- 📈 Advanced filtering, sorting & analytics dashboard
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my GitHub profile! ✨</h3>
+## 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300">
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravanthi908&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10)
+
+![Streak Stats](https://streak-stats.demolab.com?user=Sravanthi908&theme=radical&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi908&layout=compact&theme=radical&border_radius=10)
+
+</div>
+
+---
+
+## 🧠 Problem Solving & Learning
+
+- **LeetCode:** Regular practice on algorithms & data structures
+- **Focus Areas:** 
+  - Optimized SQL queries & database design
+  - Algorithm optimization & time complexity analysis
+  - System design & architectural patterns
+
+<div align="center">
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problem%20Solver-FF9800?style=for-the-badge&logo=leetcode)
+
+</div>
+
+---
+
+## 📊 What I'm Working On
+
+- 🚀 Building scalable backend systems with robust API design
+- 🤖 Exploring AI/ML applications in real-world scenarios
+- 📚 Deep diving into system design & distributed computing
+- 🔄 Contributing to open-source projects
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+**Let's build something amazing together!**
+
+[📧 Email](mailto:mushinisravanthi09@gmail.com) • [💻 Portfolio](https://sravanthi-portfolio-five.vercel.app) • [🐙 GitHub](https://github.com/Sravanthi908) • [💼 LinkedIn](https://linkedin.com)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/216120986-9ad4f8b6-32ee-40e4-8570-ccea5641e46d.gif" width="400">
+
+### ✨ Thanks for visiting! Always eager to learn and collaborate ✨
+
+</div>

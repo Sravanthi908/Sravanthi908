@@ -24,7 +24,7 @@
 - 🧠 **Learning:** Understanding enterprise-level systems & optimizing performance
 - 🛠️ **Approach:** Writing maintainable code with robust validation & edge-case handling
 - 🔍 **Passion:** Debugging complex issues & implementing elegant solutions
-- 🎓 **Goal:** Building AI/ML-powered applications that solve real problems
+- 🎓 **Goal:** Building AI/ML-powered applications that solve real problems.
 
 ---
 
